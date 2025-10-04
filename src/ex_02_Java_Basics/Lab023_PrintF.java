@@ -1,0 +1,29 @@
+package ex_02_Java_Basics;
+
+public class Lab023_PrintF {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 20;
+        System.out.println(a);
+        System.out.println(b);
+      }
+    }
+
+//        System.out.println(a);
+//        System.out.println(b);
+
+//        System.out.print(a);
+//        System.out.print(b);
+
+
+
+
+
+
+    // %d -> int, byte, long, short, - data type
+    // %s -> String
+    // %f -> float, double,
+    // %b ->boolean
+
+
+

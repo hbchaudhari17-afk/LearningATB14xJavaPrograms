@@ -6,10 +6,10 @@ public class Lab029_Literals {
         int age = 65;
         // Literal - integral
 
-     final float pi = ("3.14F");
+     final float pi = 3.14f;
 //        // Literal - float
 
-        final int girl age = 18;
+        final int girl_age = 18;
         //girl_age = 19;
 
 
